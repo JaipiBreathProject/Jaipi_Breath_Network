@@ -6,9 +6,9 @@
 
 GitHub Repository for [https://github.com/JaipiBreathProject/Jaipi_Breath_Network](https://github.com/JaipiBreathProject/Jaipi_Breath_Network)
 
-ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
+ask question and cloudflare ips: [https://t.me/Jaipi_Breath](https://t.me/Jaipi_Breath)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/JaipiBreathProject/Jaipi_Breath_Network)
 
 ## available branches and explain
 
