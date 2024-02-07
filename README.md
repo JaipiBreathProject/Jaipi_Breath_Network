@@ -4,7 +4,8 @@
   <img src="https://i.postimg.cc/cHBbfvns/20240206-214058.png" alt="Breath Tunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository for [https://github.com/JaipiBreathProject/Jaipi_Breath_Network]
+(https://github.comm/JaipiBreathProject/Jaipi_Breath_Network)
 
 ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
