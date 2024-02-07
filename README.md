@@ -5,7 +5,7 @@
 </p>
 
 GitHub Repository for [https://github.com/JaipiBreathProject/Jaipi_Breath_Network]
-(https://github.comm/JaipiBreathProject/Jaipi_Breath_Network)
+(https://github.com/JaipiBreathProject/Jaipi_Breath_Network)
 
 ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
