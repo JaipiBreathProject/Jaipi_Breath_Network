@@ -1,7 +1,7 @@
 # Breath Tunnel
 
 <p align="center">
-  <img src="https://i.postimg.cc/cHBbfvns/20240206-214058.png" alt="Breath Tunnel" style="margin-bottom: -50px;">
+  <img src="https://raw.githubusercontent.com/JaipiBreathProject/vless-jaipibreath/main/Logo_Breath.png" alt="Breath Tunnel" style="margin-bottom: -50px;">
 </p>
 
 GitHub Repository for [https://github.com/JaipiBreathProject/Jaipi_Breath_Network](https://github.com/JaipiBreathProject/Jaipi_Breath_Network)
